@@ -5,4 +5,4 @@ Read the article on medium.com
 
 Deploy on your own Heroku App or...
 
-Try our Simple Web API for free that also supports base64 encoding and the Tensorflow Coco SSD object detection model: https://rapidapi.com/AIImageClassifier/api/ai-image-classifier
+Try our simple Web API for free that also supports base64 encoding and the Tensorflow Coco SSD object detection model: https://rapidapi.com/AIImageClassifier/api/ai-image-classifier
