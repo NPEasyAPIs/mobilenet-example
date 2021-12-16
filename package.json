@@ -1,7 +1,7 @@
 {
-  "name": "mobilenet-imageclassification",
+  "name": "mobilenet-example",
   "version": "1.0.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "Example Web API for Tensorflow.js MobileNet Model",
   "engines": {
     "node": "14.x"
   },
