@@ -1,7 +1,7 @@
 # mobilenet-example
-Deploy Web API for Tensorflow.js MobileNet Model on Heroku
+Deployment Ready Web API for Tensorflow.js MobileNet Model on Heroku
 
-Read the article at https://medium.com/@aiimageclassifier/deploying-a-tensorflow-js-a61e4765aba6
+Read the step-by-step article at https://medium.com/@aiimageclassifier/deploying-a-tensorflow-js-a61e4765aba6
 
 Deploy on your own Heroku App or...
 
